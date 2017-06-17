@@ -17,6 +17,10 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         // bla bla bla bla
         // TODO code application logic here
+        
+        int i = 4;
+        int f = 8;
+        System.out.println(i*f);
     }
     
 }
